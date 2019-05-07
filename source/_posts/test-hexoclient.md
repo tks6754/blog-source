@@ -4,7 +4,7 @@ tags:
   - hexo
 categories:
   - hexo
-toc: false
+toc: true
 date: 2019-04-22 22:56:33
 ---
 
@@ -16,3 +16,7 @@ test
 test
 
 > test
+
+
+
+hexo-client deploy
